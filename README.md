@@ -1,4 +1,4 @@
-# **run_analysis.R**
+
 ## **Getting and Cleaning Data- Coursera project**
 
 ***Peer-graded Assignment: Getting and Cleaning Data Course Project***
